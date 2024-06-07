@@ -1,0 +1,3 @@
+ДЗ выполнено в Google Colab.
+Ссылка:
+https://colab.research.google.com/drive/1UyZkz5-XAEPFp7y32_HtLD1EO37M7k65?usp=sharing
